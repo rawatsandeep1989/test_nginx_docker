@@ -1,4 +1,4 @@
-# Pull OS on which nginx is to be installed.
+# Pull OS on which nginx is to be installed. #This is just a commentt
 ARG OS_VERSION=latest
 ARG NGINX_VERSION=latest
 FROM ubuntu:${OS_VERSION}
